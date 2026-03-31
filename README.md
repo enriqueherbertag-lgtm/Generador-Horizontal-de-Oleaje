@@ -1,10 +1,10 @@
-# Muro-Oleaje Horizontal
+# Generador Horizontal de Oleaje
 
 Sistema de generación de energía a partir del oleaje, integrado en muros costeros existentes o de nueva construcción. Aprovecha la infraestructura costera ya presente (espigones, malecones, rompeolas) y permite mantenimiento completamente desde tierra.
 
 ## Principio de operacion
 
-El sistema captura la energia cinetica del oleaje en su movimiento horizontal contra el muro. A diferencia de sistemas basados en mareas o boyas de fondeo, Muro-Oleaje Horizontal se instala en la zona de rompientes, donde la energia por metro lineal de costa es maxima y predecible.
+El sistema captura la energia cinetica del oleaje en su movimiento horizontal contra el muro. A diferencia de sistemas basados en mareas o boyas de fondeo, Generador Horizontal de Oleaje se instala en la zona de rompientes, donde la energia por metro lineal de costa es maxima y predecible.
 
 El conjunto esta compuesto por:
 
@@ -16,8 +16,8 @@ El conjunto esta compuesto por:
 
 ## Ventajas frente a otras tecnologias undimotriz
 
-| Caracteristica | Muro-Oleaje Horizontal | Boyas flotantes | Columna oscilante |
-|----------------|------------------------|-----------------|-------------------|
+| Caracteristica | Generador Horizontal de Oleaje | Boyas flotantes | Columna oscilante |
+|----------------|--------------------------------|-----------------|-------------------|
 | Instalacion | 48h, grua estandar | Semanas, barcos especiales | Buzos, equipo pesado |
 | Mantenimiento | Desde tierra, anual | En alta mar, mensual | Buzos, trimestral |
 | Uso de infraestructura existente | Si (muros, espigones) | No | No |

@@ -1,5 +1,7 @@
 # Generador Horizontal de Oleaje
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Sistema de generación de energía a partir del oleaje, integrado en muros costeros existentes o de nueva construcción. Aprovecha la infraestructura costera ya presente (espigones, malecones, rompeolas) y permite mantenimiento completamente desde tierra.
 
 ## Principio de operacion
